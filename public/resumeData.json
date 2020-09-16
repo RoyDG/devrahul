@@ -1,0 +1,186 @@
+{
+  "main": {
+    "name": "Rahul DG",
+    "occupation": "ReactJS Developer & Writer at Medium ",
+    "description": "ReactJs Developer, Designer, Tec. Writer & Love to Learn",
+    "image": "Rahul.png",
+    "bio": "My name is Rahul dg, I'm a Full Stack ReactJS Developer. Currently I'm working on a StartUp & also keep on building my personal projects ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "rdg01834@gmail.com",
+    "address": {
+      "street": "Ring Road",
+      "city": "Dhaka",
+      "state": "Bangladesh",
+      "zip": "1207"
+    },
+    "resumedownload": "https://drive.google.com/file/d/1hd0MUfAR0mxv3Ukg1IE0dSB92Cnd_36a/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/ratul.dj/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/rahul-d-abb44ba0/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Roy01148743",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/RoyDG",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here is some of my skills out of 100%",
+    "education": [
+      {
+        "school": "Empac College Of Technology",
+        "degree": "Diploma in Electronics Engineering",
+        "graduated": "January 2015",
+        "description": "Graduated with having A+ in Project"
+      }
+    ],
+
+    "work": [
+      {
+        "company": "SoftPen IT",
+        "title": "Frontend Developer & React Specialist",
+        "years": "April 2020 - Present",
+        "description": "It's an on going startup software firm."
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "75%"
+      },
+      {
+        "name": "nodejs",
+        "level": "30%"
+      },
+      {
+        "name": "Php",
+        "level": "30%"
+      },
+      {
+        "name": "Python",
+        "level": "40%"
+      },
+      {
+        "name": "C",
+        "level": "30%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "55%"
+      },
+
+      {
+        "name": "WordPress",
+        "level": "40%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "80%"
+      },
+      {
+        "name": "MySql",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "50%"
+      },
+      {
+        "name": "Firebase",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon clone",
+        "category": "Full functional Amazon clone by using React and with Stripe payment method. Hosted on Firebase",
+        "image": "Amazonclone.png",
+        "url": "https://ama-clone-7.web.app/"
+      },
+      {
+        "title": "Amazon Demo",
+        "category": "Full functional Amazon demo by using React and it's so many library and also have User Auth by google. Hosted on Firebase",
+        "image": "Amazon.png",
+        "url": "https://beta-80fae.firebaseapp.com/"
+      },
+        {
+        "title": "React Portfolio Demo",
+        "category": "it's a social media type React SPA experiment of mine. Hosted on Netlify",
+        "image": "profile.png",
+        "url": "https://profiledemo.netlify.app/"
+      },
+      {
+        "title": "Portfolio Demo",
+        "category": "This simple portfolio built only by using Html & Css",
+        "image": "portfolio.png",
+        "url": "https://roydg.github.io/Rahul-Portfolio/"
+      },
+      {
+        "title": "Bank Calculation Demo",
+        "category": "This Project Built On JS ",
+        "image": "bank.png",
+        "url": "https://roydg.github.io/City-Bank/."
+      },
+      {
+        "title": "Shoping-Cart Demo",
+        "category": "Simple Shoping-Cart by using JS",
+        "image": "Shoping-Cart.png",
+        "url": "https://roydg.github.io/shopping-cart/"
+      },
+      {
+        "title": "Hot-Gadgets E-Commerce",
+        "category": "This E-Commerce site built by using Bootstrap",
+        "image": "HotGadgets.png",
+        "url": "https://roydg.github.io/hot-gadget/"
+      },
+      {
+        "title": "Panda-Commerce Landing Page",
+        "category": "This landing page designed by using Bootstrap",
+        "image": "panda.png",
+        "url": "https://roydg.github.io/panda-commarce/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Once my JS Instructor said about me,"
+      },
+      {
+        "text": "You never stop asking question, that's makes you always hungry and up to date",
+        "user": "J-M Sir"
+      }
+    ]
+  }
+}

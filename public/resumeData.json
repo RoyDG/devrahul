@@ -70,10 +70,6 @@
         "level": "30%"
       },
       {
-        "name": "Php",
-        "level": "30%"
-      },
-      {
         "name": "Python",
         "level": "40%"
       },
@@ -122,6 +118,12 @@
   },
   "portfolio": {
     "projects": [
+        {
+          "title": "Metal-Gym",
+          "category": "This is Gym landing page made by me using tailwind & AOS animation",
+          "image": "Metal-Gym.png",
+          "url": "https://roydg.github.io/Metal-Gym/"
+        },
       {
         "title": "Amazon clone",
         "category": "Full functional Amazon clone by using React and with Stripe payment method. Hosted on Firebase",

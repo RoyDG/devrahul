@@ -18,7 +18,7 @@ const Contact = ({ data }) => {
     return (
       <section id="contact">
 
-         <div className="row section-head">
+         <div className="row section-head" data-aos="zoom-in">
 
             <div className="two columns header-col">
 
@@ -34,7 +34,7 @@ const Contact = ({ data }) => {
 
          </div>
 
-         <div className="row">
+         <div className="row" data-aos="fade-right">
             <div className="eight columns">
 
                <form id="contactForm" name="contactForm">
@@ -77,7 +77,7 @@ const Contact = ({ data }) => {
 
 
             <aside className="four columns footer-widgets">
-               <div className="widget widget_contact">
+               <div className="widget widget_contact" data-aos="fade-left">
 
 					   <h4>Address and Phone</h4>
 					   <p className="address">

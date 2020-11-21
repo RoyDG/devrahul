@@ -16,7 +16,10 @@ class Testimonials extends Component {
 
     return (
       <section id="testimonials">
-      <div className="text-container">
+      <div className="text-container" 
+            data-aos="fade-down"
+            data-aos-easing="linear"
+            data-aos-duration="2500">
          <div className="row">
 
             <div className="two columns header-col">

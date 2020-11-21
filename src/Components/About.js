@@ -18,7 +18,7 @@ class About extends Component {
 
     return (
       <section id="about">
-      <div className="row">
+      <div className="row" data-aos="zoom-in">
          <div className="three columns">
             <img className="profile-pic"  src={profilepic} alt="Tim Baker Profile Pic" />
          </div>

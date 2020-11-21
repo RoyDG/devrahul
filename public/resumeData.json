@@ -99,10 +99,6 @@
         "level": "40%"
       },
       {
-        "name": "Bootstrap",
-        "level": "80%"
-      },
-      {
         "name": "MySql",
         "level": "80%"
       },
@@ -118,6 +114,12 @@
   },
   "portfolio": {
     "projects": [
+              {
+          "title": "NetFlix",
+          "category": "Netflix frontEnd animated & where you can play trailer by clicking on some image",
+          "image": "Netflix.png",
+          "url": "https://netflixclone0.web.app/"
+        },
         {
           "title": "Metal-Gym",
           "category": "This is Gym landing page made by me using tailwind & AOS animation",

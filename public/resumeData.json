@@ -1,10 +1,10 @@
 {
   "main": {
-    "name": "Rahul DG",
-    "occupation": "ReactJS Developer & Writer at Medium ",
-    "description": "ReactJs Developer, Designer, Tec. Writer & Love to Learn",
+    "name": "Rahul Dash Gupto",
+    "occupation": "Web app Developer & Writer at Medium ",
+    "description": "Frontend Developer, Designer, Tec. Writer & Love to Learn",
     "image": "Rahul.png",
-    "bio": "My name is Rahul dg, I'm a Full Stack ReactJS Developer. Currently I'm working on a StartUp & also keep on building my personal projects ",
+    "bio": "My name is Rahul dash gupto, I'm a Frontend web app Developer. Currently I'm working on my own StartUp & also keep on building various projects to enrich my skills",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "rdg01834@gmail.com",
     "address": {
@@ -50,10 +50,10 @@
 
     "work": [
       {
-        "company": "SoftPen IT",
-        "title": "Frontend Developer & React Specialist",
+        "company": "Working on my own StartUp",
+        "title": "Frontend Web App Developer",
         "years": "April 2020 - Present",
-        "description": "It's an on going startup software firm."
+        "description": "It's an on process startup where we looking forward to make it as a software firm."
       }
     ],
     "skills": [
@@ -145,10 +145,28 @@
         "url": "https://beta-80fae.firebaseapp.com/"
       },
         {
-        "title": "React Portfolio Demo",
-        "category": "it's a social media type React SPA experiment of mine. Hosted on Netlify",
-        "image": "profile.png",
-        "url": "https://profiledemo.netlify.app/"
+        "title": "Tesla SPA",
+        "category": "React Tesla SPA hosted on netlify",
+        "image": "tesla.png",
+        "url": "https://teslalp.netlify.app/"
+      }, 
+      {
+        "title": "Hot-Gadgets E-Commerce",
+        "category": "This E-Commerce site built by using Bootstrap",
+        "image": "HotGadgets.png",
+        "url": "https://roydg.github.io/hot-gadget/"
+      },
+      {
+        "title": "Panda-Commerce Landing Page",
+        "category": "This landing page designed by using Bootstrap",
+        "image": "panda.png",
+        "url": "https://roydg.github.io/panda-commarce/"
+      },
+        {
+        "title": "TODO APP",
+        "category": "React Todo SPA with full functional CRUD using firebase DB",
+        "image": "todo.png",
+        "url": "https://todo-app7.web.app/"
       },
       {
         "title": "Portfolio Demo",
@@ -167,18 +185,6 @@
         "category": "Simple Shoping-Cart by using JS",
         "image": "Shoping-Cart.png",
         "url": "https://roydg.github.io/shopping-cart/"
-      },
-      {
-        "title": "Hot-Gadgets E-Commerce",
-        "category": "This E-Commerce site built by using Bootstrap",
-        "image": "HotGadgets.png",
-        "url": "https://roydg.github.io/hot-gadget/"
-      },
-      {
-        "title": "Panda-Commerce Landing Page",
-        "category": "This landing page designed by using Bootstrap",
-        "image": "panda.png",
-        "url": "https://roydg.github.io/panda-commarce/"
       }
     ]
   },

@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "jquery": "^3.5.1",
-    "netlify-cli": "^2.68.7",
+    "netlify-cli": "^2.71.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-ga": "^3.1.2",
